@@ -28,12 +28,12 @@
         "typescript": "^3.0.3"
     },
     "dependencies": {
-        "0x.js": "^1.0.4",
+        "0x.js": "^2.0.0",
         "@0x/connect": "^3.0.4",
         "@0x/json-schemas": "^2.1.0",
         "@0x/order-utils": "^3.0.0",
         "@0x/order-watcher": "^2.2.3",
-        "@0x/subproviders": "^2.1.2",
+        "@0x/subproviders": "^7.0.0",
         "@0x/types": "^1.2.1",
         "@0x/typescript-typings": "^3.0.4",
         "@0x/utils": "^2.0.4",
@@ -48,7 +48,7 @@
         "jsonschema": "^1.2.4",
         "lodash": "^4.17.11",
         "reflect-metadata": "^0.1.10",
-        "sqlite3": "^4.0.2",
+        "sqlite3": "^5.0.3",
         "typeorm": "0.2.7"
     }
 }
